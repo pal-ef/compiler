@@ -1,0 +1,32 @@
+if:conditional
+else:conditional
+while:loop
+for:loop
+
+=:assignment
+==:logic operator
+&&:logic operator
+||:logic operators
+
++:operator
+-:operator
+/:operator
+*:operator
+
++=:operator and assignment
+-=:operator and assignment
+*=:operator and assignment
+/=:operator and assignment
+
+string:keyword
+int:keyword
+float:keyword
+byte:keyword
+class:keyword
+struct:keyword
+
+(:parenthesisStart
+):parenthesisEnd
+{:blockStart
+}:blockEnd
+
